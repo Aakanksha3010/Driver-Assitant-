@@ -7,8 +7,11 @@ the consequence of an absence of sharpness when driving because of driver sleepi
 Given below are some of the things which you need to keep ready when you running the project on your 
 local machine:-
 1.python 3.7
+
 2.Tkinter
+
 3.pygame
+
 4.opencv 
 
 
