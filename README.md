@@ -3,7 +3,7 @@ Drowsiness detection is one of those normal issue should have been settled to fo
 In ongoing time's auto weariness associated crashes have extremely extended. Driver's heedlessness may be
 the consequence of an absence of sharpness when driving because of driver sleepiness and interruption.
 
-#Prerequisites-
+# Prerequisites-
 Given below are some of the things which you need to keep ready when you running the project on your 
 local machine:-
 1.python 3.7
