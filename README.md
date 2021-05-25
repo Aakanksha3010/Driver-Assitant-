@@ -21,7 +21,7 @@ This project is primarily developed by students of NMIMS MPSTME:
  - Aakanksha Singh
  - Shreya Palliwal
  - Riya Nimje
- - Janhvi Saraf
+ - Jahanvi Saraf
 
 
 
